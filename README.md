@@ -12,6 +12,7 @@
 - HTML
 - JavaScript
 - PHP
+- CSS
 - EZWebLynx
 - Relé
 - Motor paso a paso Nema17
